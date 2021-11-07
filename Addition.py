@@ -1,6 +1,8 @@
-x = input("Type a number: ")
-y = input("Type another number: ")
+n = int(input("number of inputs"))
+result = 0
 
-sum = int(x) + int(y)
+for i in range(0, n):
+    x = int(input("Type the number: "))
+    result = result + x
 
-print("The sum is: ", sum) 
+print("The result is: %d"%(result))
