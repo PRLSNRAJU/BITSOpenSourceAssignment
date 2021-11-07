@@ -9,6 +9,6 @@ Group No: 16
 [PRLSN RAJU](https://prlsnraju.github.io/)
 
 ============
-[AdityaMotadoo] (https://github.com/adityamotadoo/adityamotadoo.github.io)
+[AdityaMotadoo](https://github.com/adityamotadoo/adityamotadoo.github.io)
 
 ============
