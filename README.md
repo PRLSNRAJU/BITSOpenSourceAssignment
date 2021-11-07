@@ -15,6 +15,7 @@ Group No: 16
 
 ============
 
-[Shiv Karthik Reddy Chintakuntla - 2020MT93503] (https://shivkarthik23.github.io/shivkarthik23/)
-
+Name: Shiv Karthik Reddy Chintakuntla - 2020MT93503 [View Profile](https://shivkarthik23.github.io/shivkarthik23/)
+BITS ID: 2020MT93503
+Email: 2020MT93503@wilp.bits-pilani.ac.in 
 ============
