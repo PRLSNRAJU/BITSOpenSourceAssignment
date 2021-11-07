@@ -1,6 +1,9 @@
-x = input("Type the first number: ")
-y = input("Type the second number: ")
+n = int(input("number of inputs"))
+result = 1
 
-result = int(x) * int(y)
+for i in range(0, n):
+    x = int(input("Type the number: "))
+    result = result *x
 
-print("The result of %s and %s is: %d"%(x,y,result)) 
+
+print("The result is: %d"%(result)) 
